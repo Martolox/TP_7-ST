@@ -13,7 +13,7 @@ Se requiere que un mensaje devuelva un String con algún formato:
 - Corta: 3-06-1986
 - Larga: 3 de Junio de 1986  
 
-![TP 7.2](/images/TP6.7.png)
+![TP 7.2](/images/TP7.2.png)
 
 ## 3. Decorator: Reporte
 Para un Producto se calcula el precio teniendo en cuenta impuestos, descuentos y envío.
